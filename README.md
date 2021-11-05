@@ -1,1 +1,1 @@
-# PythonPharmacyManagmentSystem
+# PharmacyManagment
